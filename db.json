@@ -1,0 +1,109 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nama": "Tirto Hadian Johan",
+            "alamat": "Jl Pandu Raya 184 RT 006/03,Tegal Gundil",
+            "umur": 11,
+            "nohp": "02518380839"
+        },
+        {
+            "id": 2,
+            "nama": "Bethari Leony Rachman",
+            "alamat": "Jl Tanah Abang II 66,Petojo Selatan",
+            "umur": 12,
+            "nohp": "02134830752"
+        },
+        {
+            "id": 3,
+            "nama": "Leony Batari Yuwono",
+            "alamat": "Jl Gading Kirana Tmr IX Bl B-10/43,Kelapa Gading Barat",
+            "umur": 13,
+            "nohp": "02145858482"
+        },
+        {
+            "id": 4,
+            "nama": "Shinta Ade Atmadja",
+            "alamat": "147/kha",
+            "umur": 24,
+            "nohp": "08029128020"
+        },
+        {
+            "id": 5,
+            "nama": "Ratna Utari Sutedja",
+            "alamat": "Jl Tambak 2-A/8,Pegangsaan",
+            "umur": 24,
+            "nohp": "02131931340"
+        },
+        {
+            "id": 6,
+            "nama": "Adi Wibawa Santoso",
+            "alamat": "Jl Kwitang 22-23,Kwitang",
+            "umur": 24,
+            "nohp": "02131904474"
+        },
+        {
+            "id": 7,
+            "nama": "Tirto Hadian Tanuwidjaja",
+            "alamat": "Jl Jababeka 17-B Kawasan Industri Jababeka Tahap I Bl U/20",
+            "umur": 24,
+            "nohp": "02189111737"
+        },
+        {
+            "id": 8,
+            "nama": "Mega Cahya Yuwono",
+            "alamat": "Jl Daan Mogot Kompl Marina Sayang Bl A-17",
+            "umur": 24,
+            "nohp": "0215667083"
+        },
+        {
+            "id": 9,
+            "nama": "Ratna Devi Budiaman",
+            "alamat": "Alam Center",
+            "umur": 24,
+            "nohp": "0880317261967"
+        },
+        {
+            "id": 10,
+            "nama": "Muljoto Méh-fùnh Oesman",
+            "alamat": "Jl Dr Saharjo 202,Manggarai Selatan",
+            "umur": 24,
+            "nohp": "0218301239"
+        },
+        {
+            "id": 11,
+            "nama": "Tirto Hadian Indradjaja",
+            "alamat": "Jl Metro Kencana VII Bl Q/16,Sunter Agung",
+            "umur": 24,
+            "nohp": "0216521928"
+        },
+        {
+            "id": 12,
+            "nama": "Glenna Sinta Tedja",
+            "alamat": "niketan",
+            "umur": 24,
+            "nohp": "088029898302"
+        },
+        {
+            "id": 13,
+            "nama": "Ade Irwan Sanjaya",
+            "alamat": "Wiyoro Baru III No.21 RT.10 Baturetno, Banguntapan Bantul D.I. Yogyakarta, Jawa Tengah",
+            "umur": 24,
+            "nohp": "08176795123"
+        },
+        {
+            "id": 14,
+            "nama": "Ratna Utari Cahyadi",
+            "alamat": "Mohakhali",
+            "umur": 24,
+            "nohp": "08808817878"
+        },
+        {
+            "id": 15,
+            "nama": "Bambang Kuwat Johan",
+            "alamat": "Jl Buaran Indah I Bl A/87 RT 001/14,Klender",
+            "umur": 24,
+            "nohp": "0218616106"
+        },
+      ]
+}
